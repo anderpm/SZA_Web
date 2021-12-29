@@ -1,0 +1,126 @@
+.titulua
+{
+    margin:auto;
+    text-align:center;
+    font-family:Ar bonnie, Arial, Helvetica;
+    background-color:rgb(151, 119, 29);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+    text-shadow: 0 0 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.tit{
+    font-size: 300%;
+}
+
+.nor
+{
+    text-align:center;
+    font-family:Ar bonnie, Arial, Helvetica;
+    font-size: 200%;
+    margin-top: -2%;
+    margin-bottom: -3%;
+    text-shadow: 0 0 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.atzera
+{
+    margin-top: 2%;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color:rgb(253, 227, 155);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:center;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    font-family:Ar bonnie, Arial, Helvetica;
+}
+
+.left{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    float:left;
+    margin-bottom: 5%;
+}
+
+.middle{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    display: inline-block;
+}
+
+.right{
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    float:right;
+}
+
+.karratua{
+    margin-left: 20%; 
+    margin-right: 20%;
+    background-color: rgb(253, 227, 155);
+    overflow: auto;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 1%;
+    margin-bottom: -0.5%;
+    color: #000000;
+    font-size: 175%;
+    text-align:center;
+    font-family: Ar bonnie, Arial, Helvetica;
+}
+ 
+a {
+    font-size: 200%;
+    color: rgb(0, 0, 0)
+}
+
+.historia{
+    margin-left: 2%;
+    text-indent: 5%;
+}
+.historia2{
+    margin-left: 2%;
+}
+.historia3{
+    margin-left: 2%;
+}
+
+.staff{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.botoia{
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: rgb(151, 119, 29);
+    color: rgb(0, 0, 0);
+}
+
+.kredituak{
+    background-color:rgba(127.5, 127.5, 127.5, 0.5);
+    text-align:center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+}
+
+.github{
+    font-size: 100%;
+}

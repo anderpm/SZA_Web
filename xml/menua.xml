@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menua>
+	<element>
+		<izena>Ali-oli patatak</izena>
+		<prezioa>3.5</prezioa>
+	</element>
+    <element>
+		<izena>Kroketak (6 unit.)</izena>
+		<prezioa>5</prezioa>
+	</element>
+    <element>
+		<izena>Alitak</izena>
+		<prezioa>6.5</prezioa>
+	</element>
+    <element>
+		<izena>Kalamarrak</izena>
+		<prezioa>4</prezioa>
+	</element>
+
+    <element>
+		<izena>B1 - Xolomo, gazta eta piperra</izena>
+		<prezioa>6.5</prezioa>
+	</element>
+    <element>
+		<izena>B2 - Mixto Bejetala</izena>
+		<prezioa>7</prezioa>
+		<ingredients>York, gazta, arrautza egosia, letxuga, tomatea eta mahonesa</ingredients>
+	</element>
+    <element>
+		<izena>B3 - Patata tortilla</izena>
+		<prezioa>5</prezioa>
+	</element>
+    <element>
+		<izena>B4 - Kanpus</izena>
+		<prezioa>8.5</prezioa>
+		<ingredients>York, gazta, arrautza frijitua, tipula, letxuga, tomatea eta mahonesa</ingredients>
+	</element>
+    <element>
+		<izena>B5 - Kalamarrak ali-oliarekin</izena>
+		<prezioa>6</prezioa>
+	</element>
+
+    <element>
+		<izena>H1 - Cheese Burger</izena>
+		<prezioa>6</prezioa>
+		<ingredients>Hamburgesa gaztarekin</ingredients>
+	</element>
+    <element>
+		<izena>H2 - BBQ</izena>
+		<prezioa>7</prezioa>
+        <ingredients>Hamburgesa, gazta, hirugiharra, BBQ, tipula</ingredients>
+	</element>
+    <element>
+		<izena>H3 - Hamburgesa handia</izena>
+		<prezioa>8</prezioa>
+		<ingredients>Hamburgesa, gazta, hirugiharra, arrautza frijitua, letxuga, tomatea eta tipula</ingredients>
+	</element>
+
+     <element>
+		<izena>Freskagarria</izena>
+		<prezioa>1.5</prezioa>
+		<ingredients>Coca-Cola, Kas, Fanta</ingredients>
+	</element>
+    <element>
+		<izena>Ura (1 L)</izena>
+		<prezioa>1</prezioa>
+	</element>
+    <element>
+		<izena>Garagardoa</izena>
+		<prezioa>2</prezioa>
+		<ingredients>Estrella Galicia, Keler, San Miguel</ingredients>
+	</element>
+</menua>
